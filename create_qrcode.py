@@ -8,7 +8,7 @@ qr = qrcode.QRCode(
     border=5
 )
 
-print("Que vas contenire le QRCode")
+print("Que va contenir le QRCode")
 qrcode = input()
 
 qr.add_data(qrcode)
