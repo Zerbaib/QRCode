@@ -21,7 +21,7 @@ Executez la commande:
 _Etape 2_:
 Executer:
  ```git clone https://github.com/Zerbaib/QRCode.git```
- pour avoir les fichier du bot
+ pour avoir les fichier de l'app
 
 
 _Etape 3_:
@@ -32,7 +32,7 @@ Executer:
 _Etape 4_:
 Executer:
  ```python app.py```
- pour executer le le code
+ pour executer le code
 
 ## Démarrage
 
