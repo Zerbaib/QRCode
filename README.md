@@ -19,17 +19,22 @@ Execute the command:
  to have the Tkinter module and use the project.
 
 _Step 2_:
+Execute the command:
+ ```pip3 install opencv-python```
+ to have the Tkinter module and use the project.
+
+_Step 3_:
 Execute:
  ```git clone https://github.com/Zerbaib/QRCode.git```
  to get the app files
 
 
-_Step 3_:
+_Step 4_:
 Execute:
  ```cd QRCode```
  to go to the software folder
 
-_Step 4_:
+_Step 5_:
 Execute:
  ```python3 app.py```
  to run the code
@@ -39,7 +44,7 @@ Execute:
 - [x] The qr creation system
 - [x] The qr reading system
 - [x] The application system
-- [X] The shutdown system 
+- [ ] The shutdown system 
 
 ## Made with
 
