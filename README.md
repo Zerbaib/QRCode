@@ -9,7 +9,7 @@ You have to read so as not to miss it.
 ### Prerequisites
 
 - Python 3 (I am using 3.9.1)
-- with the TKinter module
+- with TKinter and cv2 module
 
 ### Installation
 
