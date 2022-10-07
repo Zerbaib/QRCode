@@ -41,8 +41,8 @@ label_subtitle.pack()
 #
 cr_qr = Button(frame, text="Pour cree un qrcode click moi", font=("Courrier", 25), bg="white", fg="#9EDBF8",command= CreateQRCode)
 re_qr = Button(frame, text="Pour lire un qrcode click moi", font=("Courrier", 25), bg="white", fg="#9EDBF8",command= ReadQRCode)
-cr_qr.pack(pady=25, fill=X)
-re_qr.pack(pady=25, fill=X)
+cr_qr.pack(pady=20, fill=X)
+re_qr.pack(pady=20, fill=X)
 #
  # # # Fin des bontons
 
