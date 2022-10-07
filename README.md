@@ -49,7 +49,7 @@ Execute:
 ## Made with
 
 _The software :_
-* [Geany](http://geany.org) - Text editor + allows me to run the project to test it.
+* [Visual Studio 2022](https://visualstudio.microsoft.com/fr/vs/) - Code editor + allows me to run the project to test it.
 
 ## Authors
 
